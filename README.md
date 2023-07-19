@@ -13,3 +13,7 @@ This section is for deployment
 ## Release
 
 THis is for release part.
+
+## Example
+
+This is an example part
