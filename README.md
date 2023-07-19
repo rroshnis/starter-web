@@ -22,3 +22,12 @@ This is an example part
 ## Example1
 
 This is an other example after first example
+
+## Reference
+
+This is for reference purpose
+
+## UAT
+
+This example is for UAT
+
