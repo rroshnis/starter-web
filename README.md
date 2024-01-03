@@ -31,6 +31,3 @@ This is for reference purpose
 
 This example is for UAT
 
-## Adding instructions to contribute
-
-These are the instructions to contribute in the file
